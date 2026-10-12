@@ -63,6 +63,7 @@
 - [Calculator.net Health](https://www.calculator.net/health-calculator.html) - Basic health calculators.
 - [MyFitnessPal](https://www.myfitnesspal.com) - Calorie tracking (requires account).
 - [TDEE Calculator](https://tdeecalculator.net) - Total daily energy expenditure.
+- [Live Fitness Check](livefitnesscheck.com) - BMI, BMR, TDEE, calorie, body fat, water intake, heart-rate zones, pregnancy, and 80+ more free health and fitness calculators.
 
 ## Engineering & Construction
 
